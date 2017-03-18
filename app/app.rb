@@ -1,3 +1,3 @@
 def  alpha
-  print "Hello Ruby"
+  print "Hello World Ruby"
 end
